@@ -6,7 +6,7 @@
 
 ## 🎨 About the Challenge
 
-Welcome to **Code <a> Pookalam 2026** - a fun coding challenge organized by TinkerHub RIT! 
+Welcome to **Code-a-Pookalam 2026** - a fun coding challenge organized by TinkerHub RIT! 
 
 Pookalam is a traditional floral carpet made during the festival of Onam in Kerala. In this challenge, we're bringing this beautiful tradition into the digital world! Use your creativity and coding skills to create stunning digital Pookalams using any programming language of your choice.
 
