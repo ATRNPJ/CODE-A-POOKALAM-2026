@@ -1,5 +1,5 @@
 
-# 🌸 Code<a>Pookalam 2026🌸
+# 🌸 Code-a-Pookalam 2026🌸
 ### *Create beautiful digital art through code this Onam season!*
 
 ---
